@@ -3,3 +3,7 @@ What happens when you initialize a repository? Why do you need to do it?
 	A hidden .git file is created which starts tracking the files in the directory.
 	You need to do it to start version-checking!
 
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area allows us to prepare the files we want to commit.
+	It is like a temporary choose to save to discard changes space.
