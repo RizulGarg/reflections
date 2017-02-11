@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	A hidden .git file is created which starts tracking the files in the directory.
+	You need to do it to start version-checking!
+
