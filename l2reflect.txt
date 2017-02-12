@@ -26,3 +26,6 @@ What is the result of merging two branches together? Why do we represent it in t
 	The two branches combine into one, duh! because the final commit should be able to point to both of the previous branches.
 
 	
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Git's automatic merging shows us the conflicts which need manual merging and merges the other stuff on its own, so it's a boon.
