@@ -14,3 +14,6 @@ Describe the differences between forks, clones, and branches. When would you use
 	clones - to clone a repository, usually to clone an offline version
 	branches - to work on different things without them affecting each other
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	the benefit is that you can track if you're up to date with the version available offline or not, and it helps if you have different one on the online version.
